@@ -5,7 +5,7 @@ I love transforming datasets into meaningful stories using Python, SQL, and visu
 <div align="left">
 
   <b>Programming Languages & Libraries</b><br/>
-  <img src="https://www.streamlinehq.com/icons/download/python-3-0-0.svg" height="60" alt="Python logo" />
+  <img src="https://www.streamlinehq.com/icons/svg-logos?search=python&icon=ico_hqczZ5JSrfe6zUl0" height="60" alt="Python logo" />
   <img width="12"/>
   <img src="https://www.streamlinehq.com/icons/download/mysql-5-7-0.svg" height="60" alt="MySQL logo" />
   <img width="12"/>
