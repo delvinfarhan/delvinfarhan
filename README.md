@@ -35,10 +35,7 @@
 </div>
 
 ![Delvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=delvinfarhan&show_icons=true&theme=dark&hide=prs,issues)
-<img src="https://streak-stats.demolab.com?user=delvinfarhan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-
-
-
+<img src="https://streak-stats.demolab.com?user=delvinfarhan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/delvinfarhan/delvinfarhan/output/pacman-contribution-graph-dark.svg">
