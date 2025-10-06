@@ -4,36 +4,38 @@ I love transforming datasets into meaningful stories using Python, SQL, and visu
 ## Tech Stack & Tools
 <div align="left">
 
-  <b>Programming Languages & Libraries</b><br/>
-  <img src="https://www.streamlinehq.com/icons/python--31103.svg" height="60" alt="Python logo" />
-  <img width="12"/>
-  <img src="https://www.streamlinehq.com/icons/download/mysql-5-7-0.svg" height="60" alt="MySQL logo" />
-  <img width="12"/>
-  <img src="https://www.streamlinehq.com/icons/download/pandas-1-2-3.svg" height="60" alt="Pandas logo" />
-  <img width="12"/>
-  <img src="https://www.streamlinehq.com/icons/download/numpy-1-20-0.svg" height="60" alt="NumPy logo" />
-  <img width="12"/>
-  <img src="https://www.streamlinehq.com/icons/download/matplotlib-3-4-0.svg" height="60" alt="Matplotlib logo" />
-  <img width="12"/>
-  <img src="https://www.streamlinehq.com/icons/download/seaborn-0-11-1.svg" height="60" alt="Seaborn logo" />
+  <b>Programming Languages & Libraries</b><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="60" alt="Python logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="60" alt="MySQL logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="60" alt="Pandas logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" height="60" alt="NumPy logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" height="60" alt="Matplotlib logo" />
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/seaborn/seaborn/master/doc/_static/logo-wide-lightbg.svg" height="60" alt="Seaborn logo" />
 
-  <br/><br/>
+  <br/><br/>
 
-  <b>Environments & Notebooks</b><br/>
-  <img src="https://www.streamlinehq.com/icons/download/anaconda-2020-11.svg" height="60" alt="Anaconda logo" />
-  <img width="12"/>
-  <img src="https://www.streamlinehq.com/icons/download/jupyter-1-0-0.svg" height="60" alt="Jupyter logo" />
-  <img width="12"/>
-  <img src="https://www.streamlinehq.com/icons/download/google-colab-1-0-0.svg" height="60" alt="Google Colab logo" />
+  <b>Environments & Notebooks</b><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" height="60" alt="Anaconda logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="60" alt="Jupyter logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" height="60" alt="Google Colab logo" />
 
-  <br/><br/>
+  <br/><br/>
 
-  <b>Business Intelligence & Visualization Tools</b><br/>
-  <img src="https://www.streamlinehq.com/icons/download/tableau-2020-1-0.svg" height="60" alt="Tableau logo" />
-  <img width="12"/>
-  <img src="https://www.streamlinehq.com/icons/download/microsoft-excel-2019-0-0.svg" height="60" alt="Microsoft Excel logo" />
-  <img width="12"/>
-  <img src="https://www.streamlinehq.com/icons/download/looker-2020-1-0.svg" height="60" alt="Looker Studio logo" />
+  <b>Business Intelligence & Visualization Tools</b><br/>
+  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-ar21.svg" height="60" alt="Tableau logo" />
+  <img width="12"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-ar21.svg" height="60" alt="Microsoft Excel logo" />
+  <img width="12"/>
+  <img src="https://www.vectorlogo.zone/logos/google_looker-studio/google_looker-studio-ar21.svg" height="60" alt="Looker Studio logo" />
+
+</div>
 
 </div>
 
