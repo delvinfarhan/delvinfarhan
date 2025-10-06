@@ -2,7 +2,10 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-# Hi, I’m Delvin — a data enthusiast who believes every insight starts with evidence.  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/00373590-78a8-49bc-bc2f-ba6f5737dffb" alt="SQL header animation" />
+</p>
+  
 I love transforming datasets into meaningful stories using Python, SQL, and visualization tools.
 
 ## Tech Stack & Tools
