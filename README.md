@@ -33,8 +33,10 @@
 
 </div>
 
-![Delvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=delvinfarhan&show_icons=true&theme=tokyonight&hide=prs,issues)
+![Delvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=delvinfarhan&show_icons=true&theme=dark&hide=prs,issues)
 <img src="https://streak-stats.demolab.com?user=delvinfarhan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+
 
 
 <picture>
@@ -42,7 +44,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/delvinfarhan/delvinfarhan/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/delvinfarhan/delvinfarhan/output/pacman-contribution-graph.svg">
 </picture>
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
