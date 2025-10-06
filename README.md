@@ -16,24 +16,21 @@ I love transforming datasets into meaningful stories using Python, SQL, and visu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" height="60" alt="Matplotlib logo" />
   <img width="12"/>
   <img src="https://raw.githubusercontent.com/seaborn/seaborn/master/doc/_static/logo-wide-lightbg.svg" height="60" alt="Seaborn logo" />
-
   <br/><br/>
-
   <b>Environments & Notebooks</b><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" height="60" alt="Anaconda logo" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="60" alt="Jupyter logo" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" height="60" alt="Google Colab logo" />
-
   <br/><br/>
+  <b>Business Intelligence & Visualization Tools</b><br/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Tableau_Software_logo.svg" height="60" alt="Tableau logo" />
+  <img width="12"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo_and_wordmark.svg" height="60" alt="Microsoft Excel logo" />
+  <img width="12"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Looker_Studio_logo.svg" height="60" alt="Looker Studio logo" />
 
-  <b>Business Intelligence & Visualization Tools</b><br/>
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-ar21.svg" height="60" alt="Tableau logo" />
-  <img width="12"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-ar21.svg" height="60" alt="Microsoft Excel logo" />
-  <img width="12"/>
-  <img src="https://www.vectorlogo.zone/logos/google_looker-studio/google_looker-studio-ar21.svg" height="60" alt="Looker Studio logo" />
 
 </div>
 
