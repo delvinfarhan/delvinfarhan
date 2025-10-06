@@ -8,6 +8,4 @@ I love transforming datasets into meaningful stories using Python, SQL, and visu
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=looker&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 
-![Delvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)](https://git.io/streak-stats)
+![Delvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=delvinfarhan&show_icons=true&theme=tokyonight)
