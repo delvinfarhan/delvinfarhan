@@ -1,8 +1,8 @@
 # Hi, I’m Delvin — a data enthusiast who believes every insight starts with evidence.  
 I love transforming datasets into meaningful stories using Python, SQL, and visualization tools.
 
-## Tech Stack & Tools  
-<div align="left">
+## Tech Stack & Tools
+<div align="left">  
   Programming & Libraries  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" alt="Python logo" />
   <img width="12"/>
@@ -14,7 +14,7 @@ I love transforming datasets into meaningful stories using Python, SQL, and visu
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original-wordmark.svg" height="60" alt="Matplotlib logo" />
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original-wordmark.svg" height="60" alt="Seaborn logo" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="60" alt="Seaborn logo" />
 
   <br/><br/>
 
