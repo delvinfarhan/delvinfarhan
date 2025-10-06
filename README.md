@@ -8,7 +8,7 @@
 ### Tech Stack & Tools
 <div align="left">
 
-  <b>Programming Languages & Libraries</b><br/>
+  <b>💻 Programming Languages & Libraries</b><br/>
 
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge"/>
@@ -18,14 +18,14 @@
   <img src="https://img.shields.io/badge/Matplotlib-311199?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib badge"/>
   <img src="https://img.shields.io/badge/Seaborn-35B779?style=for-the-badge" alt="Seaborn badge"/>
   <br/><br/>
-  <b>Environments & Notebooks</b><br/>
+  <b>🔬 Environments & Notebooks</b><br/>
 
   
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda badge"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter badge"/>
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab badge"/>
   <br/><br/>
-  <b>Business Intelligence & Visualization Tools</b><br/>
+  <b>📊 Business Intelligence & Visualization Tools</b><br/>
 
   
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau badge"/>
