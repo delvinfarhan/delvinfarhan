@@ -5,7 +5,7 @@
 # Hi, I’m Delvin. An aspiring Data Analyst and Business Intelligence Analyst.
 #### I love transforming datasets into meaningful stories using Python, SQL, and visualization tools.
 
-### Tech Stack & Tools
+###   Tech Stack & Tools
 <div align="left">
 
   <b>💻 Programming Languages & Libraries</b><br/>
