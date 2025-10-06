@@ -34,8 +34,8 @@ I love transforming datasets into meaningful stories using Python, SQL, and visu
 
 </div>
 
+![Delvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=delvinfarhan&show_icons=true&theme=tokyonight)
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
-
-![Delvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=delvinfarhan&show_icons=true&theme=tokyonight)
