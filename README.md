@@ -9,7 +9,7 @@ I love transforming datasets into meaningful stories using Python, SQL, and visu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="50" height="50"/>
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg](https://github.com/devicons/devicon/tree/v2.17.0/icons/seaborn/seaborn-original.svg)" alt="Seaborn" width="50" height="50"/>
 
   Environment / Notebook  
   ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA5B0C?logo=jupyter&logoColor=white)
