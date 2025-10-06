@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/00373590-78a8-49bc-bc2f-ba6f5737dffb" alt="SQL header animation" />
 </p>
 
-## Hi, I’m Delvin. An aspiring Data Analyst and Business Intelligence Analyst.
+# Hi, I’m Delvin. An aspiring Data Analyst and Business Intelligence Analyst.
 #### I love transforming datasets into meaningful stories using Python, SQL, and visualization tools.
 
 ### Tech Stack & Tools
