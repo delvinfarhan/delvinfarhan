@@ -6,7 +6,7 @@
   <img src="https://github.com/user-attachments/assets/00373590-78a8-49bc-bc2f-ba6f5737dffb" alt="SQL header animation" />
 </p>
 
-I love transforming datasets into meaningful stories using Python, SQL, and visualization tools.
+Hi, I’m Delvin. I love transforming datasets into meaningful stories using Python, SQL, and visualization tools.
 
 ## Tech Stack & Tools
 <div align="left">
@@ -38,6 +38,33 @@ I love transforming datasets into meaningful stories using Python, SQL, and visu
 </div>
 
 ![Delvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=delvinfarhan&show_icons=true&theme=tokyonight)
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@delvinfarhan/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@delvinfarhan/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@delvinfarhan/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@delvinfarhan/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@delvinfarhan/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@delvinfarhan/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+<div align="center" style="background: transparent; padding: 20px 0; font-family: monospace; color: #e6edf3;">
+  <div id="sql-container" style="font-size: 18px; white-space: pre; display: inline-block; text-align: left;"></div>
+
+  <p id="quote" style="
+    opacity: 0;
+    font-style: italic;
+    font-size: 16px;
+    margin-top: 12px;
+    color: #9da5b4;
+    transition: opacity 2s ease-in;
+  ">
+    “Nothing last forever, we can change the future.” – Alucard
+  </p>
+</div>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
