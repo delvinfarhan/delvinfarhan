@@ -2,36 +2,41 @@
   <img src="https://github.com/user-attachments/assets/00373590-78a8-49bc-bc2f-ba6f5737dffb" alt="SQL header animation" />
 </p>
 
+<div align="center">
 <pre>
     __  ___     ____       __      _          ______           __                     ___ 
    /  |/  /    / __ \___  / /   __(_)___     / ____/___ ______/ /_  ____ _____       /   |
   / /|_/ /    / / / / _ \/ / | / / / __ \   / /_  / __ `/ ___/ __ \/ __ `/ __ \     / /| |
  / /  / /    / /_/ /  __/ /| |/ / / / / /  / __/ / /_/ / /  / / / / /_/ / / / /    / ___ |
 /_/  /_(_)  /_____/\___/_/ |___/_/_/ /_/  /_/    \__,_/_/  /_/ /_/\__,_/_/ /_(_)  /_/  |_|
+</pre>
+</div>
 
-========================================================================
-[SYS_KERNEL] :: DATA_ANALYTICS & BUSINESS_INTELLIGENCE // V2.4.0
-========================================================================
-[+] OPERATOR    : M. Delvin Farhan. A
-[+] ALIAS       : Delvin
+<pre>
+===========================================================================================
+[ システム情報 // SYS_KERNEL ] :: DATA_ANALYTICS & BI // VER 2.4.0
+===========================================================================================
+[+] OPERATOR    : M. Delvin Farhan. A // デルヴィン
+[+] ROLE        : データアナリスト (Data Analyst) • BIスペシャリスト
 [+] DIRECTIVE   : Transforming complex datasets into high-impact stories
 [+] CORE STACK  : Python • SQL • Looker Studio • BigQuery
-[+] STATUS      : [OPEN] Operational & Ready for Collaborative Projects
-========================================================================
+[+] STATUS      : [ 稼働中 // OPEN ] Operational & Ready for Collaborations
+===========================================================================================
+       ❖ データから物語を紡ぎ出す // TRANSFORMING DATA INTO STORIES ❖
 </pre>
 
 ---
 
 <p align="center">
 <b><code>┌──────────────────────────────────────────────────────────────────────┐</code></b><br/>
-<b><code>│  SYSTEM ARCHITECTURE // TECH STACK & TOOLING MATRIX                  │</code></b><br/>
+<b><code>│  システム構成 // SYSTEM ARCHITECTURE & TECH STACK MATRIX             │</code></b><br/>
 <b><code>└──────────────────────────────────────────────────────────────────────┘</code></b>
 </p>
 
 <div align="center">
 
 <p align="center">
-<b><code>┌──[ 01 // PROGRAMMING LANGUAGES & LIBRARIES ]──────────────────────────┐</code></b><br/>
+<b><code>┌──[ 01 // 言語とライブラリ // PROGRAMMING & LIBRARIES ]────────────────┐</code></b><br/>
 <b><code>└──[ CORE: PYTHON • SQL • PANDAS • NUMPY • MATPLOTLIB • SCIKIT-LEARN ]──┘</code></b>
 </p>
 <p align="center">
@@ -47,7 +52,7 @@
 <br/>
 
 <p align="center">
-<b><code>┌──[ 02 // ENVIRONMENTS & NOTEBOOKS ]───────────────────────────────────┐</code></b><br/>
+<b><code>┌──[ 02 // 開発環境と分析基盤 // ENVIRONMENTS & NOTEBOOKS ]─────────────┐</code></b><br/>
 <b><code>└──[ WORKSPACE: ANACONDA • JUPYTER NOTEBOOK • GOOGLE COLAB ]────────────┘</code></b>
 </p>
 <p align="center">
@@ -59,7 +64,7 @@
 <br/>
 
 <p align="center">
-<b><code>┌──[ 03 // BUSINESS INTELLIGENCE & VISUALIZATION TOOLS ]────────────────┐</code></b><br/>
+<b><code>┌──[ 03 // ビジネス知能と可視化 // BI & VISUALIZATION TOOLS ]───────────┐</code></b><br/>
 <b><code>└──[ INSIGHTS: TABLEAU • MS EXCEL • GOOGLE SHEETS • LOOKER STUDIO ]─────┘</code></b>
 </p>
 <p align="center">
@@ -72,7 +77,7 @@
 <br/>
 
 <p align="center">
-<b><code>┌──[ 04 // DATABASE ENGINES & DATA WAREHOUSES ]─────────────────────────┐</code></b><br/>
+<b><code>┌──[ 04 // データベース管理基盤 // DATABASE ENGINES & WAREHOUSES ]───────┐</code></b><br/>
 <b><code>└──[ STORAGE: MYSQL • MARIADB • GOOGLE BIGQUERY • PHPMYADMIN ]──────────┘</code></b>
 </p>
 <p align="center">
@@ -85,7 +90,7 @@
 <br/>
 
 <p align="center">
-<b><code>┌──[ 05 // WEB & FULLSTACK ARCHITECTURE ]───────────────────────────────┐</code></b><br/>
+<b><code>┌──[ 05 // ウェブ開発と構成 // WEB & FULLSTACK ARCHITECTURE ]───────────┐</code></b><br/>
 <b><code>└──[ STACK: LARAVEL • PHP • VITE • NEXT.JS • REACT ]────────────────────┘</code></b>
 </p>
 <p align="center">
@@ -107,7 +112,7 @@
 <br/>
 
 <p align="center">
-<b><code>┌──[ 06 // DEV_OPS & SYSTEMS WORKFLOW ]─────────────────────────────────┐</code></b><br/>
+<b><code>┌──[ 06 // 開発環境と運用系 // DEV_OPS & SYSTEMS WORKFLOW ]─────────────┐</code></b><br/>
 <b><code>└──[ TOOLS: VS CODE • ANTIGRAVITY • GIT • GITHUB ]──────────────────────┘</code></b>
 </p>
 <p align="center">
@@ -120,7 +125,7 @@
 <br/>
 
 <p align="center">
-<b><code>┌──[ 07 // ARTIFICIAL INTELLIGENCE & NEURAL INTERFACES ]────────────────┐</code></b><br/>
+<b><code>┌──[ 07 // 人工知能と神経回路 // AI & NEURAL INTERFACES ]───────────────┐</code></b><br/>
 <b><code>└──[ MODELS: CHATGPT • GEMINI • COPILOT • CLAUDE ]──────────────────────┘</code></b>
 </p>
 <p align="center">
@@ -138,7 +143,7 @@
 
 <p align="center">
 <b><code>┌──────────────────────────────────────────────────────────────────────┐</code></b><br/>
-<b><code>│  08 // TELEMETRY & REPOSITORY ACTIVITY METRICS                       │</code></b><br/>
+<b><code>│  08 // テレメトリと活動指標 // TELEMETRY & REPOSITORY ACTIVITY       │</code></b><br/>
 <b><code>└──────────────────────────────────────────────────────────────────────┘</code></b>
 </p>
 
@@ -148,13 +153,5 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/delvinfarhan/delvinfarhan/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/delvinfarhan/delvinfarhan/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/delvinfarhan/delvinfarhan/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
-<p align="center">
-<b><code>[EOF] ─── TRANSMISSION TERMINATED // READY FOR NEXT DIRECTIVE ───────────</code></b>
+<b><code>[ 通信終了 // TRANSMISSION TERMINATED ] ─── 次の指示を待機中 ───────────</code></b>
 </p>
