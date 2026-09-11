@@ -29,7 +29,7 @@
 
 <p align="center">
 <b><code>┌──────────────────────────────────────────────────────────────────────┐</code></b><br/>
-<b><code>│  システム構成 // SYSTEM ARCHITECTURE & TECH STACK MATRIX             │</code></b><br/>
+<b><code>│  システム構成 // SYSTEM ARCHITECTURE & TECH STACK MATRIX              │</code></b><br/>
 <b><code>└──────────────────────────────────────────────────────────────────────┘</code></b>
 </p>
 
@@ -38,7 +38,7 @@
     <td width="50%" align="center" valign="top">
       <br/>
       <p align="center">
-        <b><code>┌──[ 01 // 言語とライブラリ ]──────────────┐</code></b><br/>
+        <b><code>┌──[ 01 // 言語とライブラリ ]────────────────┐</code></b><br/>
         <b><code>└──[ PROGRAMMING & LIBRARIES ]─────────────┘</code></b>
       </p>
       <p align="center">
@@ -55,7 +55,7 @@
     <td width="50%" align="center" valign="top">
       <br/>
       <p align="center">
-        <b><code>┌──[ 02 // 開発環境と分析基盤 ]────────────┐</code></b><br/>
+        <b><code>┌──[ 02 // 開発環境と分析基盤 ]──────────────┐</code></b><br/>
         <b><code>└──[ ENVIRONMENTS & NOTEBOOKS ]────────────┘</code></b>
       </p>
       <p align="center">
@@ -70,7 +70,7 @@
     <td width="50%" align="center" valign="top">
       <br/>
       <p align="center">
-        <b><code>┌──[ 03 // ビジネス知能と可視化 ]──────────┐</code></b><br/>
+        <b><code>┌──[ 03 // ビジネス知能と可視化 ]────────────┐</code></b><br/>
         <b><code>└──[ BI & VISUALIZATION TOOLS ]────────────┘</code></b>
       </p>
       <p align="center">
@@ -84,7 +84,7 @@
     <td width="50%" align="center" valign="top">
       <br/>
       <p align="center">
-        <b><code>┌──[ 04 // データベース管理基盤 ]──────────┐</code></b><br/>
+        <b><code>┌──[ 04 // データベース管理基盤 ]────────────┐</code></b><br/>
         <b><code>└──[ DATABASES & WAREHOUSES ]──────────────┘</code></b>
       </p>
       <p align="center">
@@ -100,7 +100,7 @@
     <td width="50%" align="center" valign="top">
       <br/>
       <p align="center">
-        <b><code>┌──[ 05 // ウェブ開発と構成 ]──────────────┐</code></b><br/>
+        <b><code>┌──[ 05 // ウェブ開発と構成 ]────────────────┐</code></b><br/>
         <b><code>└──[ WEB & FULLSTACK ARCH. ]───────────────┘</code></b>
       </p>
       <p align="center">
@@ -123,7 +123,7 @@
     <td width="50%" align="center" valign="top">
       <br/>
       <p align="center">
-        <b><code>┌──[ 06 // 開発環境と運用系 ]──────────────┐</code></b><br/>
+        <b><code>┌──[ 06 // 開発環境と運用系 ]────────────────┐</code></b><br/>
         <b><code>└──[ DEV_OPS & SYSTEMS ]───────────────────┘</code></b>
       </p>
       <p align="center">
@@ -139,7 +139,7 @@
     <td colspan="2" align="center" valign="top">
       <br/>
       <p align="center">
-        <b><code>┌──[ 07 // 人工知能と神経回路 ]────────────┐</code></b><br/>
+        <b><code>┌──[ 07 // 人工知能と神経回路 ]──────────────┐</code></b><br/>
         <b><code>└──[ AI & NEURAL INTERFACES ]──────────────┘</code></b>
       </p>
       <p align="center">
@@ -159,7 +159,7 @@
 
 <p align="center">
 <b><code>┌──────────────────────────────────────────────────────────────────────┐</code></b><br/>
-<b><code>│  08 // テレメトリと活動指標 // TELEMETRY & REPOSITORY ACTIVITY       │</code></b><br/>
+<b><code>│  08 // テレメトリと活動指標 // TELEMETRY & REPOSITORY ACTIVITY         │</code></b><br/>
 <b><code>└──────────────────────────────────────────────────────────────────────┘</code></b>
 </p>
 
