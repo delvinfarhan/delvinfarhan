@@ -2,43 +2,142 @@
   <img src="https://github.com/user-attachments/assets/00373590-78a8-49bc-bc2f-ba6f5737dffb" alt="SQL header animation" />
 </p>
 
-# Hi, I’m Delvin. An aspiring Data Analyst and Business Intelligence Analyst.
-#### I love transforming datasets into meaningful stories using Python, SQL, and visualization tools.
+```text
+    __  ___     ____       __      _          ______           __                     ___ 
+   /  |/  /    / __ \___  / /   __(_)___     / ____/___ ______/ /_  ____ _____       /   |
+  / /|_/ /    / / / / _ \/ / | / / / __ \   / /_  / __ `/ ___/ __ \/ __ `/ __ \     / /| |
+ / /  / /    / /_/ /  __/ /| |/ / / / / /  / __/ / /_/ / /  / / / / /_/ / / / /    / ___ |
+/_/  /_(_)  /_____/\___/_/ |___/_/_/ /_/  /_/    \__,_/_/  /_/ /_/\__,_/_/ /_(_)  /_/  |_|
 
-### Tech Stack / Tools:
+========================================================================
+[SYS_KERNEL] :: DATA_ANALYTICS & BUSINESS_INTELLIGENCE // V2.4.0
+========================================================================
+[+] OPERATOR    : M. Delvin Farhan. A
+[+] ALIAS       : Delvin
+[+] DIRECTIVE   : Transforming complex datasets into high-impact stories
+[+] CORE STACK  : Python • SQL • Looker Studio • BigQuery
+[+] STATUS      : [OPEN] Operational & Ready for Collaborative Projects
+========================================================================
+```
+
+---
+
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│  SYSTEM ARCHITECTURE // TECH STACK & TOOLING MATRIX                  │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
 <div align="left">
 
-  <b>💻 Programming Languages & Libraries</b><br/>
+```text
+┌──[ 01 // PROGRAMMING LANGUAGES & LIBRARIES ]──────────────────────────┐
+└──[ CORE: PYTHON • SQL • PANDAS • NUMPY • MATPLOTLIB • SCIKIT-LEARN ]──┘
+```
+<img src="https://img.shields.io/badge/Python-5B8CB9?style=for-the-badge&logo=python&logoColor=white" alt="Python badge"/>
+<img src="https://img.shields.io/badge/SQL-3A6B88?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL badge"/>
+<img src="https://img.shields.io/badge/Pandas-4E79A7?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas badge"/>
+<img src="https://img.shields.io/badge/NumPy-4A6F8F?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-3B5A82?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib badge"/>
+<img src="https://img.shields.io/badge/Seaborn-578EBE?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-73A5C6?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn badge"/>
 
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas badge"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy badge"/>
-  <img src="https://img.shields.io/badge/Matplotlib-311199?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-35B779?style=for-the-badge" alt="Seaborn badge"/>
-  <br/><br/>
-  <b>🔬 Environments & Notebooks</b><br/>
+<br/><br/>
 
-  
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda badge"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter badge"/>
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab badge"/>
-  <br/><br/>
-  <b>📊 Business Intelligence & Visualization Tools</b><br/>
+```text
+┌──[ 02 // ENVIRONMENTS & NOTEBOOKS ]───────────────────────────────────┐
+└──[ WORKSPACE: ANACONDA • JUPYTER NOTEBOOK • GOOGLE COLAB ]────────────┘
+```
+<img src="https://img.shields.io/badge/Anaconda-364E68?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda badge"/>
+<img src="https://img.shields.io/badge/Jupyter-4A6572?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter badge"/>
+<img src="https://img.shields.io/badge/Colab-5D7A94?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab badge"/>
 
-  
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau badge"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel badge"/>
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio badge"/>
+<br/><br/>
+
+```text
+┌──[ 03 // BUSINESS INTELLIGENCE & VISUALIZATION TOOLS ]────────────────┐
+└──[ INSIGHTS: TABLEAU • MS EXCEL • GOOGLE SHEETS • LOOKER STUDIO ]─────┘
+```
+<img src="https://img.shields.io/badge/Tableau-4A7C99?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau badge"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-3B6978?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel badge"/>
+<img src="https://img.shields.io/badge/Google_Sheets-487A8B?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets badge"/>
+<img src="https://img.shields.io/badge/Looker_Studio-5C94B8?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio badge"/>
+
+<br/><br/>
+
+```text
+┌──[ 04 // DATABASE ENGINES & DATA WAREHOUSES ]─────────────────────────┐
+└──[ STORAGE: MYSQL • MARIADB • GOOGLE BIGQUERY • PHPMYADMIN ]──────────┘
+```
+<img src="https://img.shields.io/badge/MySQL-2C3E50?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge"/>
+<img src="https://img.shields.io/badge/MariaDB-34495E?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB badge"/>
+<img src="https://img.shields.io/badge/Google_BigQuery-3E5871?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="Google BigQuery badge"/>
+<img src="https://img.shields.io/badge/phpMyAdmin-4A627A?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin badge"/>
+
+<br/><br/>
+
+```text
+┌──[ 05 // WEB & FULLSTACK ARCHITECTURE ]───────────────────────────────┐
+└──[ LARAVEL • PHP • NEXT.JS • REACT ]──┘
+```
+<img src="https://img.shields.io/badge/PHP-4A6B8A?style=for-the-badge&logo=php&logoColor=white" alt="PHP badge"/>
+<img src="https://img.shields.io/badge/Laravel-8B0000?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel badge"/>
+<img src="https://img.shields.io/badge/Composer-3A6B88?style=for-the-badge&logo=composer&logoColor=white" alt="Composer badge"/>
+<img src="https://img.shields.io/badge/Next.js-1B2A47?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js badge"/>
+<img src="https://img.shields.io/badge/React-2E4057?style=for-the-badge&logo=react&logoColor=white" alt="React badge"/>
+<img src="https://img.shields.io/badge/Framer_Motion-5B8CB9?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion badge"/>
+<img src="https://img.shields.io/badge/HTML5-6C8EA4?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge"/>
+<img src="https://img.shields.io/badge/CSS3-5D7D9A?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge"/>
+<img src="https://img.shields.io/badge/JavaScript-7091B0?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript badge"/>
+<img src="https://img.shields.io/badge/Node.js-3A5A6D?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js badge"/>
+<img src="https://img.shields.io/badge/Nginx-34495E?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx badge"/>
+<img src="https://img.shields.io/badge/Vercel-203040?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel badge"/>
+
+<br/><br/>
+
+```text
+┌──[ 06 // DEV_OPS & SYSTEMS WORKFLOW ]─────────────────────────────────┐
+└──[ TOOLS: VS CODE • ANTIGRAVITY • GIT • GITHUB ]──────────────────────┘
+```
+<img src="https://img.shields.io/badge/VS_Code-7B0F15?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code badge"/>
+<img src="https://img.shields.io/badge/Antigravity-921217?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity badge"/>
+<img src="https://img.shields.io/badge/Git-A71D2A?style=for-the-badge&logo=git&logoColor=white" alt="Git badge"/>
+<img src="https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge"/>
+
+<br/><br/>
+
+```text
+┌──[ 07 // ARTIFICIAL INTELLIGENCE & NEURAL INTERFACES ]────────────────┐
+└──[ MODELS: CHATGPT • GEMINI • COPILOT • CLAUDE ]──────────────────────┘
+```
+<img src="https://img.shields.io/badge/ChatGPT-660000?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT badge"/>
+<img src="https://img.shields.io/badge/Google_Gemini-7B0F15?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini badge"/>
+<img src="https://img.shields.io/badge/Microsoft_Copilot-8B0000?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Copilot badge"/>
+<img src="https://img.shields.io/badge/Claude-9E1B32?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude badge"/>
 
 </div>
 
-![Delvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=delvinfarhan&show_icons=true&theme=dark&hide=prs,issues)
-<img src="https://streak-stats.demolab.com?user=delvinfarhan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
+<br/>
+
+---
+
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│  08 // TELEMETRY & REPOSITORY ACTIVITY METRICS                       │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=delvinfarhan&show_icons=true&bg_color=0D131D&title_color=88B2DC&icon_color=C1121F&text_color=E0E8F0&border_color=3A506B&hide=prs,issues" alt="Delvin's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=delvinfarhan&locale=en&mode=daily&background=0D131D&ring=C1121F&fire=C1121F&currStreakLabel=88B2DC&sideLabels=E0E8F0&currStreakNum=88B2DC&sideNums=E0E8F0&border=3A506B&border_radius=5" height="220" alt="streak graph" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/delvinfarhan/delvinfarhan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/delvinfarhan/delvinfarhan/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/delvinfarhan/delvinfarhan/output/pacman-contribution-graph.svg">
 </picture>
+
+```text
+[EOF] ─── TRANSMISSION TERMINATED // READY FOR NEXT DIRECTIVE ───────────
+```
