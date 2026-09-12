@@ -171,5 +171,7 @@
 <p align="center">
   <b><code>◢◤ [ 通信終了 // TRANSMISSION TERMINATED ] ◢◤ 
     ─── 次の指示を待機中 ─────────── </code></b>
+  
+  
   <sub><code>⟦ 警告：不正アクセスは電脳防壁（ブラックICE）により焼き切られます ⟧</code></sub>
 </p>
