@@ -22,7 +22,7 @@
 [+] CORE STACK  : Python • SQL • Looker Studio • BigQuery
 [+] STATUS      : [ 稼働中 // OPEN ] Operational & Ready for Collaborations
 ===========================================================================================
-       ❖ データから物語を紡ぎ出す // TRANSFORMING DATA INTO STORIES ❖
+       ❖ データから物語を紡ぎ出す // TRANSFORMING DATA INTO INSIGHTS ❖
 </pre>
 
 ---
@@ -43,7 +43,7 @@
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-5B8CB9?style=for-the-badge&logo=python&logoColor=white" alt="Python badge"/>
-        <img src="https://img.shields.io/badge/SQL-3A6B88?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL badge"/>
+        <img src="https://img.shields.io/badge/SQL-3A6B88?style=for-the-badge&logo=sql&logoColor=white" alt="SQL badge"/>
         <img src="https://img.shields.io/badge/Pandas-4E79A7?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas badge"/>
         <img src="https://img.shields.io/badge/NumPy-4A6F8F?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy badge"/>
         <img src="https://img.shields.io/badge/Matplotlib-3B5A82?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib badge"/>
@@ -124,7 +124,7 @@
       <br/>
       <p align="center">
         <b><code>┌──[ 06 // 開発環境と運用系 ]────────────────┐</code></b><br/>
-        <b><code>└──[ DEV_OPS & SYSTEMS ]───────────────────┘</code></b>
+        <b><code>└──[ DEV_TOOLS & SYSTEMS ]───────────────────┘</code></b>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/VS_Code-7B0F15?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code badge"/>
@@ -164,10 +164,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=delvinfarhan&show_icons=true&bg_color=0D131D&title_color=88B2DC&icon_color=C1121F&text_color=E0E8F0&border_color=3A506B&hide=prs,issues" height="195" alt="Delvin's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=delvinfarhan&locale=en&mode=daily&background=0D131D&ring=C1121F&fire=C1121F&currStreakLabel=88B2DC&sideLabels=E0E8F0&currStreakNum=88B2DC&sideNums=E0E8F0&border=3A506B&border_radius=5" height="195" alt="streak graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=delvinfarhan&show_icons=true&bg_color=0B0F19&title_color=00F0FF&icon_color=FF0055&text_color=E0F8FF&border_color=00F0FF&hide=prs,issues" height="195" alt="Delvin's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=delvinfarhan&locale=en&mode=daily&background=0B0F19&ring=00F0FF&fire=FF0055&currStreakLabel=00F0FF&sideLabels=E0F8FF&currStreakNum=00FF66&sideNums=00F0FF&border=00F0FF&border_radius=4" height="195" alt="streak graph" />
 </p>
 
 <p align="center">
-<b><code>[ 通信終了 // TRANSMISSION TERMINATED ] ─── 次の指示を待機中 ───────────</code></b>
+  <b><code>◢◤ [ 通信終了 // TRANSMISSION TERMINATED ] ◢◤ 
+    ─── 次の指示を待機中 ─────────── </code></b>
+  <sub><code>⟦ 警告：不正アクセスは電脳防壁（ブラックICE）により焼き切られます ⟧</code></sub>
 </p>
