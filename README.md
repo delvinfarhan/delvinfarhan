@@ -123,7 +123,7 @@
     <td width="50%" align="center" valign="top">
       <br/>
       <p align="center">
-        <b><code>┌──[ 06 // 開発環境と運用系 ]────────────────┐</code></b><br/>
+        <b><code>┌──[ 06 // 開発環境と運用系 ]──────────────────┐</code></b><br/>
         <b><code>└──[ DEV_TOOLS & SYSTEMS ]───────────────────┘</code></b>
       </p>
       <p align="center">
